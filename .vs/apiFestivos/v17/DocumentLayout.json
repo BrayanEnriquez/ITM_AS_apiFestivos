@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brayan\\Downloads\\Nueva carpeta (6)\\ITM_AS_apiFestivos-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17B446C4-4F3E-41BF-BE0B-B70A7AE1A2CF}|apiFestivos.Test\\apiFestivos.Test.csproj|c:\\users\\brayan\\downloads\\nueva carpeta (6)\\itm_as_apifestivos-main\\apifestivos.test\\festivotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B446C4-4F3E-41BF-BE0B-B70A7AE1A2CF}|apiFestivos.Test\\apiFestivos.Test.csproj|solutionrelative:apifestivos.test\\festivotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B446C4-4F3E-41BF-BE0B-B70A7AE1A2CF}|apiFestivos.Test\\apiFestivos.Test.csproj|c:\\users\\brayan\\downloads\\nueva carpeta (6)\\itm_as_apifestivos-main\\apifestivos.test\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B446C4-4F3E-41BF-BE0B-B70A7AE1A2CF}|apiFestivos.Test\\apiFestivos.Test.csproj|solutionrelative:apifestivos.test\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BF3675-FDAA-47C2-BF41-99401CB786E9}|apiFestivos.Core\\apiFestivos.Core.csproj|c:\\users\\brayan\\downloads\\nueva carpeta (6)\\itm_as_apifestivos-main\\apifestivos.core\\interfaces\\servicios\\ifestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BF3675-FDAA-47C2-BF41-99401CB786E9}|apiFestivos.Core\\apiFestivos.Core.csproj|solutionrelative:apifestivos.core\\interfaces\\servicios\\ifestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5D9432-3024-4B6C-AEBC-127F3425C28B}|apiFestivos.Aplicacion\\apiFestivos.Aplicacion.csproj|c:\\users\\brayan\\downloads\\nueva carpeta (6)\\itm_as_apifestivos-main\\apifestivos.aplicacion\\servicios\\festivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5D9432-3024-4B6C-AEBC-127F3425C28B}|apiFestivos.Aplicacion\\apiFestivos.Aplicacion.csproj|solutionrelative:apifestivos.aplicacion\\servicios\\festivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFestivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan\\Downloads\\Nueva carpeta (6)\\ITM_AS_apiFestivos-main\\apiFestivos.Core\\Interfaces\\Servicios\\IFestivoServicio.cs",
+              "RelativeDocumentMoniker": "apiFestivos.Core\\Interfaces\\Servicios\\IFestivoServicio.cs",
+              "ToolTip": "C:\\Users\\Brayan\\Downloads\\Nueva carpeta (6)\\ITM_AS_apiFestivos-main\\apiFestivos.Core\\Interfaces\\Servicios\\IFestivoServicio.cs",
+              "RelativeToolTip": "apiFestivos.Core\\Interfaces\\Servicios\\IFestivoServicio.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:11:07.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FestivoTest.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan\\Downloads\\Nueva carpeta (6)\\ITM_AS_apiFestivos-main\\apiFestivos.Test\\FestivoTest.cs",
+              "RelativeDocumentMoniker": "apiFestivos.Test\\FestivoTest.cs",
+              "ToolTip": "C:\\Users\\Brayan\\Downloads\\Nueva carpeta (6)\\ITM_AS_apiFestivos-main\\apiFestivos.Test\\FestivoTest.cs",
+              "RelativeToolTip": "apiFestivos.Test\\FestivoTest.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAQwHAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:55:55.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan\\Downloads\\Nueva carpeta (6)\\ITM_AS_apiFestivos-main\\apiFestivos.Test\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "apiFestivos.Test\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Brayan\\Downloads\\Nueva carpeta (6)\\ITM_AS_apiFestivos-main\\apiFestivos.Test\\GlobalUsings.cs",
+              "RelativeToolTip": "apiFestivos.Test\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:30:24.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FestivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan\\Downloads\\Nueva carpeta (6)\\ITM_AS_apiFestivos-main\\apiFestivos.Aplicacion\\Servicios\\FestivoServicio.cs",
+              "RelativeDocumentMoniker": "apiFestivos.Aplicacion\\Servicios\\FestivoServicio.cs",
+              "ToolTip": "C:\\Users\\Brayan\\Downloads\\Nueva carpeta (6)\\ITM_AS_apiFestivos-main\\apiFestivos.Aplicacion\\Servicios\\FestivoServicio.cs",
+              "RelativeToolTip": "apiFestivos.Aplicacion\\Servicios\\FestivoServicio.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwDEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:02:11.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
